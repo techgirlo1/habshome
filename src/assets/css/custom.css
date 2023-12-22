@@ -1,0 +1,287 @@
+
+
+.nav{
+
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+.navtitle{
+    color: white;
+    font-family: 'Montserrat',sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    text-decoration: none;
+    
+}
+
+.navItem{
+    color: black;
+    font-family: 'Montserrat',sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+.navItem:hover{
+    color: black;
+}
+
+.imgbanner{
+    background-image:url('../images/banner.jpg') ;
+    min-height: 600px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+.imgoverlay{
+    min-height: 600px;
+    background-color: rgba(0,0,0,0.4);
+    position: absolute;
+    width: 100%;
+}
+
+
+.textbanner{
+    color: white;
+    padding-top: 300px;
+    font-family: 'Montserrat',sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.textdesc{
+    color: white;
+    /* padding-left: 200px; */
+    font-family: 'Raleway,sans-serif';
+    font-weight: 400;
+    font-size: 20px
+}
+
+.titleservice{
+    color:black; 
+    text-align: center;
+    font-family: 'Montserrat',sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+}
+
+.titleservices{
+    color:black; 
+    font-family: 'Montserrat',sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+}
+
+
+
+
+
+.bottom{
+    background:black  none repeat scroll 0 0 ;
+    height: 4px;
+    width: 100px;
+    margin: -10px auto 0;
+    margin-bottom: 25px;
+}
+
+
+
+
+
+
+.abtDesc{
+    font-family: 'Montserrat',sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color:black ;
+    
+}
+
+
+
+.abtimg{
+    
+    margin:50px 0px ;
+    width: 500px;
+    height: 400px;
+}
+
+.read{
+    color: black;
+    font-family: 'Raleway,sans-serif';
+    font-weight: 400;
+    font-size: 12px;
+    text-decoration: none;
+}
+
+.siderBack{
+    background-color:rgba(0, 0, 0, 0.3) ;
+    min-height: 300px;
+}
+
+
+.circleImg{
+    height: 400px;
+    width: 400px;
+    margin:0 auto;
+    
+    border: 1px solid white;
+}
+
+.reviewdesc{
+    font-family: 'Montserrat',sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    color:black ;
+    padding: 0px auto;
+}
+
+.social{
+    color: black;
+}
+
+.footer{
+    background-image: url('../images/banner.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 250px;
+}
+
+
+
+.footericon{
+    color: white;
+    padding: 0 20px;
+    transition: transform 250ms;
+    display: inline-block;
+}
+
+.footericon:hover{
+    transform:translateY(-2px)
+}
+
+.footerdiv{
+    margin-top: 30px;
+}
+
+.textdescs{
+    color: white;
+    font-family: 'Raleway,sans-serif';
+    font-weight: 400;
+    font-size: 25px;
+    margin-top: 30px;
+    padding-left: 15px;
+}
+
+
+.textdes{
+    color: white;
+    font-family: 'Raleway,sans-serif';
+    font-weight: 400;
+    font-size: 18px;
+    margin-top: 30px;
+    padding-left: 15px;
+}
+
+.footerLink{
+    color: white;
+    text-decoration: none;
+    font-family: 'Raleway,sans-serif';
+    font-weight: 400;
+    font-size: 18px;
+    padding-left: 15px;
+}
+
+
+.topFixedPage{
+    background-image:url("../images/toppage.jpg") ;
+    min-height: 300px;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.topPageoverlay{
+    position: absolute;
+    min-height: 300px;
+    width: 100%;
+    background-color: rgba(0,0,0,0.7);
+}
+
+.topContentPage{
+    text-align: center;
+    color: white;
+    padding-top: 150px;
+    
+}
+
+
+
+.topPageSub{
+    font-family: 'Montserrat',sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.more{
+    color: black;
+    font-family: 'Raleway,sans-serif';
+    font-weight: 400;
+    font-size: 20px;
+    text-decoration: none;
+    text-align: center;
+    
+}
+
+.title{
+    color: black;
+    font-family: 'Raleway,sans-serif';
+    font-weight: 600;
+    font-size: 25px;
+    margin-top: 4px;
+}
+
+.desc{
+    color:black;
+    font-family: 'Raleway,sans-serif';
+    font-weight: 400;
+    font-size: 15px;
+    margin-top: 4px;
+}
+
+.summaryoverlay{
+     min-height: 200px;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.sumNum{
+    font-family: 'Montserrat',sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+    color:white;
+      
+}
+
+.sumTitle{
+    color:rgb(201, 128, 11);
+    font-family: 'Raleway,sans-serif';
+    font-weight: 700;
+    font-size: 22px;
+}
+
+.proj{
+    margin-top: 5%;
+}
+
+.line{
+    background:white  none repeat scroll 0 0 ;
+    height: 1px;
+    width: 50px;
+    margin: 10px auto 0;
+    margin-bottom: 25px; 
+}
